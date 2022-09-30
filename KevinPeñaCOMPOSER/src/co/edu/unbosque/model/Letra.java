@@ -26,20 +26,20 @@ public class Letra {
 		frases[2][0] = "Princess ";
 		frases[3][0] = "Mami ";
 		
-		frases[0][1] = " yo quiero ";
+		frases[0][1] = " yo quielo ";
 		frases[1][1] = " yo puedo ";
 		frases[2][1] = " yo vengo a ";
 		frases[3][1] = " voy a ";
 		
 		frases[0][2] = " encendelte";
 		frases[1][2] = " amalte ";
-		frases[2][2] = " ligar ";
-		frases[3][2] = " jugar ";
+		frases[2][2] = " ligal ";
+		frases[3][2] = " jugal ";
 		
 		frases[0][3] = " suave ";
 		frases[1][3] = " lento ";
 		frases[2][3] = " rapido ";
-		frases[3][3] = " fuerte ";
+		frases[3][3] = " fuelte ";
 		
 		frases[0][4] = " hasta que salga el sol ";
 		frases[1][4] = " toda la noche ";
