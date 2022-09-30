@@ -8,7 +8,7 @@ import java.util.Properties;
 public class Propiedades {
 	
 	private Properties prop = new Properties();
-	private String archivoprop = "c:\\data\\archivo.properties";
+	private String archivoprop = "archivo.properties";
 	
 	public int escribirPropiedades () {
 		try {
